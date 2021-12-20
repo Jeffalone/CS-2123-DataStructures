@@ -1,1 +1,1 @@
-
+Implementation of interval partitioning algorithm
